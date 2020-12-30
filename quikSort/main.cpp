@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    
-    cout << "Hello, World!" << endl;
+    int arr[5];
+    cout << quikSort(arr, 0, 4)
     return 0;
 }
 
